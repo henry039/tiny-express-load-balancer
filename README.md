@@ -5,7 +5,7 @@ Built with TypeScript, NodeJS, Express
 - Node.js version > 10
 
 # Getting started on local
-1. `npm install ts-node` install ts-node to run .ts without compile into .js
+1. `npm install ts-node -g` install ts-node to run .ts without compile into .js
 2. `npm run dev` run the application
 
 # Usage
